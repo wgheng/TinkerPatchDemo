@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:text="原版仅有"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:textSize="25sp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <!--更新后添加-->
+    <Button
+        android:text="tinker更新"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:textSize="25sp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+
+</LinearLayout>
